@@ -15,5 +15,5 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-?style=for-the-badge&logo=java&logoColor=black)
-![React](https://img.shields.io/badge/React-?style=for-the-badge&logo=react&logoColor=blue)
+![Java](https://img.shields.io/badge/Java-6AA84F?style=for-the-badge&logo=java&logoColor=black)
+![React](https://img.shields.io/badge/React-9FC5E8?style=for-the-badge&logo=react&logoColor=blue)
